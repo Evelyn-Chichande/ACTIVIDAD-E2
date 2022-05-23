@@ -1,6 +1,6 @@
 //==>Nombre del programa: edad
-//==>Autor: CHICHANDE MARQUEZ EVELYN DAYANA
-//==> Archivo: CHICHANDEMARQUEZEVELYNDAYANA-edad.cpp
+//==>Autor: Chichande Evelyn
+//==> Archivo: ChichandeEvelyn-edad.cpp
 //==>Fecha de elaboración: 2022-04-30
 //==>Fecha ultima actualización: 2022-05-17
 
@@ -35,8 +35,8 @@ int main ()
 
 cout<<endl<<"//====================================================================="<<endl;
         cout<<"//=====Nombre del programa: edad "<<endl;
-        cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-edad.cpp"<<endl;
-        cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
+        cout<<"//=====Archivo: ChichandeEvelyn-edad.cpp"<<endl;
+        cout<<"//=====Autor: Chichande Evelyn "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
 cout<<"//====================================================================="<<endl;

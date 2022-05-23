@@ -1,7 +1,7 @@
 //==================================================
 //==>Nombre del programa: suma de varios números
-//==>Autor: CORTEZ TORRES JEAN PIERRE
-//==> Archivo: CHICHANDEMARQUEZEVELYN-sumadevariosnúmeros.cpp
+//==>Autor: Chichande Evelyn
+//==> Archivo: ChichandeEvelyn-sumadevariosnúmeros.cpp
 //==>Fecha de elaboración: 2022-04-30
 //==>Fecha ultima actualización: 2022-05-17
 //==================================================
@@ -27,8 +27,8 @@ int main()
 
 cout<<endl<<"//====================================================================="<<endl;
         cout<<"//=====Nombre del programa: suma de varios números "<<endl;
-        cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-edad.cpp"<<endl;
-        cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
+        cout<<"//=====Archivo: ChichandeEvelyn-sumadevariosnumeros.cpp"<<endl;
+        cout<<"//=====Autor: Chichande Evelyn "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
 cout<<"//====================================================================="<<endl;

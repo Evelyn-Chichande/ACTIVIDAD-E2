@@ -1,7 +1,7 @@
 //==================================================
 //==>Nombre del programa: compara
-//==>Autor: CHICHANDE MARQUEZ EVELYN DAYANA
-//==> Archivo: CHICHANDEMARQUEZEVELYNDAYANA-compara.cpp
+//==>Autor: Chichande Evelyn
+//==> Archivo: ChichandeEvelyn-compara.cpp
 //==>Fecha de elaboración: 2022-04-30
 //==>Fecha ultima actualización: 2022-05-17
 //==================================================
@@ -21,8 +21,8 @@ cout<<"El valor de CHE_a="<<CHE_a<<":ES MENOR A CHE_b="<<CHE_b<<endl;
 
 cout<<endl<<"//====================================================================="<<endl;        
         cout<<"//=====Nombre del programa: compara "<<endl;
-        cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-compara.cpp"<<endl;
-        cout<<"//=====Autor: EVELYN DAYANA CHICHANDE MARQUEZ "<<endl;
+        cout<<"//=====Archivo: ChichandeEvelyn-compara.cpp"<<endl;
+        cout<<"//=====Autor: Chichande Evelyn "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
 cout<<"//====================================================================="<<endl;
