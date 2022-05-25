@@ -1,7 +1,7 @@
 //==================================================
 //==>Nombre del programa: cuentamoneda
-//==>Autor: CHICHANDE MARQUEZ EVELYN DAYANA
-//==> Archivo: CHICHANDEMARQUEZEVELYNDAYANA-cuentamoneda.cpp
+//==>Autor: Chichande Evelyn
+//==> Archivo: ChichandeEvelyn-cuentamoneda.cpp
 //==>Fecha de elaboración: 2022-04-30
 //==>Fecha ultima actualización: 2022-05-17
 //==================================================
@@ -31,8 +31,8 @@ int main()
         
 cout<<endl<<"//====================================================================="<<endl;	
 	cout<<"//=====Nombre del programa: cuenta moneda  "<<endl;
-        cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYN-cuentamoneda.cpp"<<endl;
-        cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
+        cout<<"//=====Archivo: ChichandeEvelyn-cuentamoneda.cpp"<<endl;
+        cout<<"//=====Autor: Chichande Evelyn "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
 cout<<"//====================================================================="<<endl;
